@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to gogogo
 
 You can use the [editor on GitHub](https://github.com/yuanpenc/gogogo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
